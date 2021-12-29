@@ -1,7 +1,7 @@
-# Script V-Code
+# Script Techslim
  Welcome Dear😊
 
- <h2 align="center">AutoScript VPN By V-Code <img src="https://img.shields.io/badge/Version-1.3-blue.svg"></h2>
+ <h2 align="center">AutoScript VPN By Techslim <img src="https://img.shields.io/badge/Version-1.1-blue.svg"></h2>
 
 
 <h2 align="center"> Supported Linux Distribution</h2>
@@ -34,18 +34,6 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
   sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/coding006/x-code/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
 
   ```
-
-## Info :
-
-   Script for Sell Only. PM owner on Telegram https://t.me/Virtual_NW
-
-   - For Buy Script. https://t.me/Virtual_NW
-
-![IMG_20211225_201843](https://user-images.githubusercontent.com/96321013/147386185-6cd84fc4-00bd-464d-b7d3-d7cb8421e9b7.jpg)
- 
-![IMG_20211225_214514](https://user-images.githubusercontent.com/96321013/147386327-e8e16001-b179-49c7-b2ac-26dff41c4d1e.jpg)
- 
-
 
 ## Description :
 
