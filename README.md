@@ -34,6 +34,26 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
   sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/Premium2022/lifetime/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && screen -S setup ./setup.sh
 
   ```
+ 
+  ## Copy & paste 👇👇 to your VPS if ERROR
+  ## Wireguard
+
+  ```html
+  echo "deb http://deb.debian.org/debian/ unstable main" >/etc/apt/sources.list.d/unstable.list
+printf 'Package: *\nPin: release a=unstable\nPin-Priority: 90\n' >/etc/apt/preferences.d/limit-unstable
+apt update
+apt install -y wireguard-tools iptables iptables-persistent
+apt install -y linux-headers-$(uname -r)
+
+  ```
+ 
+  ## SSTP
+
+  ```html
+  wget https://raw.githubusercontent.com/Premium2022/lifetime/main/install/sstp.sh && chmod +x sstp.sh && screen -S sstp ./sstp.sh
+ rm -f /root/sstp.sh
+
+  ```
 
 ## Description :
 
