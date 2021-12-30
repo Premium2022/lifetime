@@ -39,26 +39,26 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
 
   Service & Port
 
-  - OpenSSH                       : 22
-  - OpenVPN                       : TCP 1194, UDP 2200, SSL 110
-  - Stunnel4                      : 222, 777
-  - Dropbear                      : 442, 109
-  - OHP Dropbear                  : 8585
-  - OHP SSH                       : 8686
-  - OHP OpenVPN                   : 8787
-  - Websocket SSH(HTTP)           : 2081
-  - Websocket SSL(HTTPS)          : 222
-  - Websocket OpenVPN             : 2084
-  - Squid Proxy                   : 3128, 8080, 8000
-  - Badvpn                        : 7100, 7200, 7300
-  - Nginx                         : 81
-  - Wireguard                     : 5820
-  - L2TP/IPSEC VPN                : 1701
-  - PPTP VPN                      : 1732
-  - SSTP VPN                      : 444
-  - Shadowsocks-R                 : 1443-1543
-  - SS-OBFS TLS                   : 2443-2543
-  - SS-OBFS HTTP                  : 3443-3543
+  - OpenSSH                 : 22
+  - OpenVPN                 : TCP 1194, UDP 2200, SSL 110
+  - Stunnel4                : 222, 777
+  - Dropbear                : 442, 109
+  - OHP Dropbear            : 8585
+  - OHP SSH                 : 8686
+  - OHP OpenVPN             : 8787
+  - Websocket SSH(HTTP)     : 2081
+  - Websocket SSL(HTTPS)    : 222
+  - Websocket OpenVPN       : 2084
+  - Squid Proxy             : 3128, 8080, 8000
+  - Badvpn                  : 7100, 7200, 7300
+  - Nginx                   : 81
+  - Wireguard               : 5820
+  - L2TP/IPSEC VPN          : 1701
+  - PPTP VPN                : 1732
+  - SSTP VPN                : 444
+  - Shadowsocks-R           : 1443-1543
+  - SS-OBFS TLS             : 2443-2543
+  - SS-OBFS HTTP            : 3443-3543
   - XRAY/V2RAY Vmess TLS          : 443
   - XRAY/V2RAY Vmess None TLS     : 80
   - XRAY/V2RAY Vless TLS          : 8443
@@ -66,8 +66,7 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
   - XRAY/V2RAY Vless Xtls DIRECT  : 9443
   - XRAY/V2RAY Vmess Grpc TLS     : 2083
   - XRAY/V2RAY Vless Grpc TLS     : 880
-  - XRAY Trojan TCP TLS           : 2087
-  - Trojan GO                     : 2087
+  - XRAY/V2RAY Trojan TCP TLS     : 2087
 
 
 
