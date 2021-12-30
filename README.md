@@ -66,7 +66,8 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
   - XRAY/V2RAY Vless Xtls DIRECT  : 9443
   - XRAY/V2RAY Vmess Grpc TLS     : 2083
   - XRAY/V2RAY Vless Grpc TLS     : 880
-  - XRAY/V2RAY Trojan TCP TLS     : 2087
+  - XRAY Trojan TCP TLS     : 2087
+  - Trojan GO     : 2086
 
 
 
